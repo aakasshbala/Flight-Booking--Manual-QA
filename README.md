@@ -22,7 +22,6 @@ Flight Search → Flight Selection → Passenger Details → Payment → Booking
 
 ## Tools
 - Manual Testing
-- Jira
 - Excel
 - GitHub
 - Chrome DevTools
